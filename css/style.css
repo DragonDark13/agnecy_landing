@@ -1,0 +1,71 @@
+/*=============================
+=            color_variables            =
+=============================*/
+/*=====  End of color_variables  ======*/
+/*=============================
+=            Mixin            =
+=============================*/
+/*=====  End of Mixin  ======*/
+/*===============================
+=            General            =
+===============================*/
+html {
+  position: relative;
+  min-height: 100%;
+}
+a:link,
+a:visited {
+  text-decoration: none;
+}
+input:focus::-webkit-input-placeholder,
+textarea:focus::-webkit-input-placeholder {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0);
+  filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0);
+  -moz-opacity: 0;
+  -khtml-opacity: 0;
+  opacity: 0;
+}
+input:focus::-moz-placeholder,
+textarea:focus::-moz-placeholder {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0);
+  filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0);
+  -moz-opacity: 0;
+  -khtml-opacity: 0;
+  opacity: 0;
+}
+input:focus:-moz-placeholder,
+textarea:focus:-moz-placeholder {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0);
+  filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0);
+  -moz-opacity: 0;
+  -khtml-opacity: 0;
+  opacity: 0;
+}
+input:focus:-ms-input-placeholder,
+textarea:focus:-ms-input-placeholder {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0);
+  filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0);
+  -moz-opacity: 0;
+  -khtml-opacity: 0;
+  opacity: 0;
+}
+input {
+  max-width: 100%;
+}
+/*=====  End of General  ======*/
+/*===============================
+=            Fonts            =
+===============================*/
+/*=====  End of Fonts  ======*/
+/*==============================
+=            Layout            =
+==============================*/
+/*=====  End of Layout  ======*/
+/*==============================
+=            Module            =
+==============================*/
+/*=====  End of Module  ======*/
+/*=============================
+=            State            =
+=============================*/
+/*=====  End of State  ======*/
